@@ -1,5 +1,7 @@
 # Google Search Data Donation Script - GESIS
-This script was developed by Eyra for a data donation study of Sina Chen and Barbara Binder (GESIS Leibniz Institute for the Social Sciences, Germany). The repository is based on the Feldspar repository described below.
+This script was originally developed by [Eyra](https://github.com/eyra) for a data donation study conducted in March 2024 as part of the [German Longitudinal Election Study (GLES)](https://www.gesis.org/gles) 2025, part of the [GESIS – Leibniz Institute for the Social Sciences](https://www.gesis.org/home) in Mannheim, Germany.
+It was later updated by Sina Chen, Barbara Binder, and Tessa Bartels for a subsequent data donation study within the [International Social Survey Programme (ISSP) 2024 – Digital Societies](https://www.gesis.org/issp/daten-und-dokumentation/digital-societies), carried out between June and September 2025.
+The repository is based on the [Feldspar](https://github.com/eyra/feldspar) repository described below.
 
 # Feldspar
 
